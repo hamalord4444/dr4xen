@@ -8,6 +8,6 @@
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{igxn0r3}/count.svg" alt="igxn0r3 :: Visitor's Count" /></p>
 <h4 align="center">Top langs</h4>
-<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=igxn0r3&langs_count=10&theme=tokyonight&layout=compact" alt="igxn0r3 :: Top Langs" /></p>
+<p align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ZXRID&langs_count=10&theme=tokyonight&layout=compact" alt="igxn0r3 :: Top Langs" /></p>
 <h4 align="center">Profile stats :musical_keyboard:</h4>
 <p align="center"><img src="https://github-readme-stats.vercel.app/api?username=igxn0r3&show_icons=true&theme=synthwave" alt="igxn0r3 :: Profile Stats" /></p>
