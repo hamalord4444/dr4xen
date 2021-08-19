@@ -4,8 +4,11 @@
   <a href="https://www.facebook.com/mynameisnanta">
     <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/5/51/Facebook_f_logo_%282019%29.svg/1365px-Facebook_f_logo_%282019%29.svg.png" alt="DR4XEN Facebook Profile" height="30" width="30">
   </a>
-  <a href="https://www.t.me/dumb0yz">
+  <a href="https://www.t.me/r0secrusher">
     <img src="https://upload.wikimedia.org/wikipedia/commons/8/83/Telegram_2019_Logo.svg" alt="DR4XEN Telegram" height="30" width="30">
+  </a>
+  <a href="https://twitter.com/r0secrusher">
+    <img src="https://upload.wikimedia.org/wikipedia/id/thumb/9/9f/Twitter_bird_logo_2012.svg/800px-Twitter_bird_logo_2012.svg.png" alt="DR4XEN Twitter" height="30" width="30">
   </a>
 </p>
 <h4 align="center">Visitor's count :eyes:</h4>
