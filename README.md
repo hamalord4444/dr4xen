@@ -10,6 +10,9 @@
   <a href="https://twitter.com/r0secrusher">
     <img src="https://upload.wikimedia.org/wikipedia/id/thumb/9/9f/Twitter_bird_logo_2012.svg/800px-Twitter_bird_logo_2012.svg.png" alt="DR4XEN Twitter" height="30" width="30">
   </a>
+  <a href="https://wa.me/qr/BBGWDQ6B47HRB1">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/6/6b/WhatsApp.svg/800px-WhatsApp.svg.png" alt="DR4XEN WhatsApp" height="30" width="30">
+  </a>
 </p>
 <h4 align="center">Visitor's count :eyes:</h4>
 <p align="center"><img src="https://profile-counter.glitch.me/{dr4xen}/count.svg" alt="dr4xen :: Visitor's Count" /></p>
